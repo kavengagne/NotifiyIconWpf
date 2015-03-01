@@ -1,1 +1,1 @@
-# GmailNotifier
+NotifyIconWpf
